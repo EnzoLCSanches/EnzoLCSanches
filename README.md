@@ -2,7 +2,7 @@
 
 Meu nome é Enzo Sanches
 
-Sou estudante do Alura
+Estou estudando no [Alura].(https://www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Utilizo esse espaço para organização e compartilhamento dos meus projetos des
 
 (Supor que E-Mail foi colocado)
 
-!.[](https://tenor.com/pt-BR/view/ryan-gosling-gif-4141614690021201678)
+!.[].(https://tenor.com/pt-BR/view/ryan-gosling-gif-4141614690021201678)
